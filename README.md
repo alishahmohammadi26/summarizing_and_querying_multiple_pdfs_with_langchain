@@ -20,3 +20,5 @@ pip install -r requirements.txt
 
 Just run the notebook: [`summarize_query_multiple_pdfs.ipynb`](https://github.com/EnkrateiaLucca/summarizing_and_querying_multiple_pdfs_with_langchain/blob/main/summarize_query_multiple_pdfs.ipynb)
 
+
+<!-- maintained-note: keep this repo tidy -->
